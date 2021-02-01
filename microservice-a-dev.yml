@@ -1,1 +1,2 @@
-
+application:
+  message: "Message from {ENV} local git repository"
